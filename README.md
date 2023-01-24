@@ -5,3 +5,6 @@
 *oddEvenSync.py* is your program written in Python.
 
 *oddEvenParallel.py* is your program written in Python by modified to use Python multiprocessing to speed it up and use all avaliable cores.
+
+*HPC.ipynb* is a Jupyter notebook with all the workshop codes.
+
