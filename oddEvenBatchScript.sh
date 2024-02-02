@@ -1,6 +1,4 @@
 #!/bin/bash 
-#SBATCH --reservation=teaching
-#SBATCH --account=teaching
 #SBATCH --partition=standard
 #SBATCH --qos=normal
 #SBATCH --job-name=myJobName  #optional name to give to your job 
